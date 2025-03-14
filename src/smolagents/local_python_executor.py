@@ -112,6 +112,7 @@ BASE_PYTHON_TOOLS = {
     "issubclass": issubclass,
     "type": type,
     "complex": complex,
+    "open" open,
 }
 
 DANGEROUS_MODULES = [
